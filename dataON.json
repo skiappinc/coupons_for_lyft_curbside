@@ -4,6 +4,7 @@
 
     "AdsController": 
       {
+         "PackaName": "com.veris.doordashdiscount",
         "NetworkAds": "admob",
         
 
