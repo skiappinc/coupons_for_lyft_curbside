@@ -5,7 +5,7 @@
     "AdsController": 
       {
          "PackaName": "com.veris.doordashdiscount",
-        "NetworkAds": "facebook",
+        "NetworkAds": "admob",
         
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
