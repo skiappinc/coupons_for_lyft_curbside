@@ -1,0 +1,53 @@
+{
+    "CouponsData": {
+  
+  
+      "DataController": 
+        {
+           "PackaName": "com.veris.doordashdiscount",
+          
+          "popuprating": true,
+          
+          "websiteapp": "https://www.lyft.com",
+          
+          
+          "appremoved": false,
+          
+          "sar9ouh" : false,
+          
+          "linkappremovedpromoted":"https://play.google.com/store/apps/details?id=sancode.lyft.coupons",
+  
+  
+
+
+          "Sicon1": "https://drive.google.com/uc?export=download&id=1ShTdX4L-p1sDxpjYydG4IS-cG2tMd1uC",
+          "Sapptitle1": "Coupons For Wish - New Discount - 75% OFF",
+          "Sappdown1": "https://play.google.com/store/apps/details?id=discount.wishstore.coupons",
+
+          "Sicon2": "https://drive.google.com/uc?export=download&id=1skvUVdXJD0et6tRB2H58qiLSaGKh5HVs",
+          "Sapptitle2": "Coupons For Bath & Body Works",
+          "Sappdown2": "https://play.google.com/store/apps/details?id=discount.bbworks.coupons",
+
+          "Sicon3": "https://drive.google.com/uc?export=download&id=1xIOfbsJsXvWsE2TRgG7L2XTwV-kR5FOh",
+          "Sapptitle3": "Coupons For Chewy",
+          "Sappdown3": "https://play.google.com/store/apps/details?id=discount.chewy.coupons",
+
+          "Sicon4": "https://drive.google.com/uc?export=download&id=1KOLtpcskCTFR4F1rROCW69tqkTWTiu0v",
+          "Sapptitle4": "Smart Digital Coupons For Family Dollar",
+          "Sappdown4": "https://play.google.com/store/apps/details?id=discount.familydollars.coupons",
+
+          "Sicon5": "https://drive.google.com/uc?export=download&id=1E4vgzuF5BDGTGvSQkkaodY-YqNglBdH6",
+          "Sapptitle5": "Smart Coupons For Dollar General",
+          "Sappdown5": "https://play.google.com/store/apps/details?id=discount.dollargeneralstore.coupons",
+
+
+           "urlprivacy": "https://sites.google.com/view/curbsidepickupprv"
+
+
+
+  
+        }
+  
+     
+    }
+  }
